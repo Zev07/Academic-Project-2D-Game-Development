@@ -37,7 +37,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Utilizando o projeto
 
-* Se você quer apenas jogar, pode ir diretamente na **pasta `Build`** e executar o jogo por lá!
+* Se você quer apenas jogar, pode ir diretamente na [pasta `Build`](./Build) e executar o jogo por lá!
 > [!IMPORTANT]
 > <b>Atenção o jogo foi buildado apenas para rodar em sistemas operacionais Windows.</b>
 
