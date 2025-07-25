@@ -43,4 +43,4 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 👥 Colaboradores 
 
-> Você pode acessar a lista de colaboradores na [pasta `Colaboradores`](./Colaboradores) lá você pode ver uma a descrição de cada participante e também no que cada um trabalhou durante o projeto.
+> Você pode acessar a lista de colaboradores na [pasta `Colaboradores`](./Colaboradores). Nesta pasta você poderá ver uma descrição de cada participante e também no que cada um trabalhou durante todo o projeto.
