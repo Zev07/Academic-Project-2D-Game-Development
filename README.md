@@ -1,10 +1,10 @@
 # Template Incial
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/meu-template-inicial?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Zev07/meu-template-inicial?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Zev07/meu-template-inicial?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Zev07/meu-template-inicial?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Zev07/meu-template-inicial?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
 
 ### Sobre o projeto
 > Este projeto representa o nosso primeiro jogo desenvolvido, concebido como um trabalho avaliativo acadêmico. O principal objetivo foi aplicar e testar nossos conhecimentos na criação de um jogo que atendesse a requisitos básicos definidos pela instituição de ensino, Para o desenvolvimento, utilizamos o motor gráfico Unity, complementado por outras ferramentas e softwares essenciais como Adobe Photoshop, Aseprite e Visual Studio Code.
