@@ -1,4 +1,4 @@
-# Template Incial
+# Projeto acadêmico: Desemvolvendo de um Jogo
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
