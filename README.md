@@ -1,4 +1,4 @@
-# Projeto acadêmico: Desenvolvendo de um Jogo
+# Projeto acadêmico: Desenvolvimento de um jogo
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Zev07/Academic-Project-2D-Game-Development?style=for-the-badge)
@@ -35,7 +35,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Para rodar o projeto na Unity, você precisará **criar um novo projeto** e importar os arquivos do repositório.
 
 
-## 🚀 Utilizando <nome_do_projeto>
+## 🚀 Utilizando o projeto
 
 * Se você quer apenas jogar, pode ir diretamente na **pasta `Build`** e executar o jogo por lá!
 > [!IMPORTANT]
