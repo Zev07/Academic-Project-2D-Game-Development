@@ -40,3 +40,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Se você quer apenas jogar, pode ir diretamente na **pasta `Build`** e executar o jogo por lá!
 > [!IMPORTANT]
 > <b>Atenção o jogo foi buildado apenas para rodar em sistemas operacionais Windows.</b>
+
+## 👥 Colaboradores 
+
+> Você pode acessar a lista de colaboradores na [pasta `Colaboradores`](./Colaboradores) lá você pode ver uma a descrição de cada participante e também no que cada um trabalhou durante o projeto.
